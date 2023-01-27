@@ -1,0 +1,60 @@
+Houston Holman
+1/26/22
+
+Overview of Natural Language Processing
+
+a. define NLP in your own words
+
+	Natural Language Processing is how computers are able to understand human language. Unlike coding languages, 
+	natural human language is imprecise and vague. Different methods can be used to break down human language
+	into something a computer may understand and take meaningful action on.
+
+b. describe the relationship between AI and NLP
+
+	The most advanced forms of NLP rely on AI. Methods of NLP that do not rely on AI such as a rules-based approach
+	fail to account for the near limitless number of possible inputs that come with human language. Deep neural nets
+	are able to learn from large datasets of text to understand the meaning and context of the input.
+
+c. write a sentence or two comparing and contrasting natural language understanding and natural language generation
+
+	Both NLU and NLG fall under the umbrella of NLP and deal with computers understanding human language. NLU
+	refers to the ability of a computer to understand the meaning and context of human language while NLG
+	refers to the ability of a computer to generate coherent human-like language that is grammatically
+	correct.
+
+d. list some examples of modern NLP applications
+
+	Modern NLP applications include voice assistants such as Siri and Alexa, translation tools such as Google
+	Translate, and chat bots such as ChatGPT.
+
+e. write 3 paragraphs describing each of the 3 main approaches to NLP, and list examples of each approach
+
+	The simplest technique for NLP is a rules-based approach. This kind of approach relies on hardcoded rules
+	that check for certain conditions in the input, such as keywords. A famous example of a rules based aproach is
+	Eliza, a chatbot from the 1960's. This approach can be useful for programs with limited features, such as 
+	a virtual store assistant or a car voice control. This approach fails at scale, however, for in order to 
+	accept more inputs, more rules must be added manually.
+
+	Statistical and probabilistic approaches leverage the power of math to better succeed at NLP. Words are counted
+	by the machine and it finds the probabilities of words and sequences to create useful language models. This
+	approach is useful for language translation and predictive text. This is also the approach used by classic
+	machine learning algorithms, as they analyze large amounts of prompt-response pairs to create the most likely
+	response.
+
+	Deep learning is the most complex approach to NLP. It utlizes different varients of neural networks to not just 
+	find a likely response to a user but to also consider the context of the conversation. Larger models such as
+	ChatGPT utilize petabytes of data and advanced hardware to train their language skills. Deep learning has the
+	potential for human-sounding interactions with computers, which would mark a huge step in the field of AI.
+	
+
+f. write a paragraph describing your personal interest in NLP and whether/how you would like to learn more about NLP 
+for personal projects and/or professional application
+
+	I have always been fascinated with the field of NLP. When I was a kid I would spend hours playing with programs 
+	like Siri and Cleverbot, amazed at how they were able to understand me. The interactions of these programs were
+	often very simple or nonsensical. More recently, I have been amazed by the power of ChatGPT and have again
+	spent many hours asking it to generate songs or summarize complex topics. I am looking forward to learning
+	more about the implementation of NLP so that I can make my own chatbots. I have no current goals in mind
+	for professional applications, but as NLP advances, I'm sure that it can be applied to any field that has
+	a program taking input from a consumer. My hope is to be one of the people creating these models, and not
+	someone that will be replaced by one.
