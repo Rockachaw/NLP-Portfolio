@@ -23,3 +23,8 @@ To run this program, run the script with sys.argv set to the filepath of your in
 
 [Example data file](data/anat19.txt)
 
+## Assignment 3: WordNet
+
+[This notebook] explores uses of the WordNet database in the field of Natural Language Processing.
+
+
