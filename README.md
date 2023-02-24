@@ -25,6 +25,6 @@ To run this program, run the script with sys.argv set to the filepath of your in
 
 ## Assignment 3: WordNet
 
-[This notebook] explores uses of the WordNet database in the field of Natural Language Processing.
+[This notebook](Assignment3.ipynb) explores uses of the WordNet database in the field of Natural Language Processing.
 
 
