@@ -27,4 +27,8 @@ To run this program, run the script with sys.argv set to the filepath of your in
 
 [This notebook](Assignment3.ipynb) explores uses of the WordNet database in the field of Natural Language Processing.
 
+## Assignment 4: N-grams
+
+In this assignment, I learned how to use n-grams to predict which language a given sentence is in. The first step is to use the [bigram generator](Assignment4/bigram_generator) to create dictionaries of all the unigrams and bigrams. Next, run the [probability generator](Assignment4/probability_generator) to find the most likely language of origin for an lines of an example file based on those dictionaries. In [this narrative](Assignment4/Ngrams Narrative.pdf) I explore the purpose of n-grams and how they are used in the field of Natural Language Processing.
+
 
