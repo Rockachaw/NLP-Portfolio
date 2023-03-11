@@ -42,8 +42,9 @@ In this project, I created a web crawler and scraper to build a corpus surroundi
 [Report](Assignment6/Web_Scraping.pdf)
 
 How to run:
-	1. Run [web_crawler.py](Assignment6/web_crawler.py) to generate the list of urls stored in urls.txt
-	2. Run [web_scraper.py](Assignment6/web_scraper.py) to scrape text off of the urls and store them in pages
-	3. Run [file_cleaner.py](Assignment6/file_cleaner.py) to clean the files in pages and store them in cleaned_pages
-	4. Run [term_extractor.py](Assignment6/term_extractor.py) to see the list of most important terms found in cleaned_pages
-	5. Run [knowledge_base_creator.py](Assignment6/knowledge_base_creator.py) to create the knowledge base from the selected best words from term_extractor.py
+
+1. Run [web_crawler.py](Assignment6/web_crawler.py) to generate the list of urls stored in urls.txt
+2. Run [web_scraper.py](Assignment6/web_scraper.py) to scrape text off of the urls and store them in pages
+3. Run [file_cleaner.py](Assignment6/file_cleaner.py) to clean the files in pages and store them in cleaned_pages
+4. Run [term_extractor.py](Assignment6/term_extractor.py) to see the list of most important terms found in cleaned_pages
+5. Run [knowledge_base_creator.py](Assignment6/knowledge_base_creator.py) to create the knowledge base from the selected best words from term_extractor.py
