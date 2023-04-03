@@ -48,3 +48,8 @@ How to run:
 3. Run [file_cleaner.py](Assignment6/file_cleaner.py) to clean the files in pages and store them in cleaned_pages
 4. Run [term_extractor.py](Assignment6/term_extractor.py) to see the list of most important terms found in cleaned_pages
 5. Run [knowledge_base_creator.py](Assignment6/knowledge_base_creator.py) to create the knowledge base from the selected best words from term_extractor.py
+
+## Assignment 7: Text Classification
+
+[This notebook](Assignment7.ipynb) explores the use of Naive Bayes, Logistical Regression, and Neural Networks in text classification.
+I used these algorithms on [this dataset of superheroes](data/superheroes_nlp_dataset.csv) with the goal predicting whether a hero was created by DC or Marvel based on their description and powers.
