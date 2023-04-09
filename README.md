@@ -53,3 +53,7 @@ How to run:
 
 [This notebook](Assignment7.ipynb) explores the use of Naive Bayes, Logistical Regression, and Neural Networks in text classification.
 I used these algorithms on [this dataset of superheroes](data/superheroes_nlp_dataset.csv) with the goal predicting whether a hero was created by DC or Marvel based on their description and powers.
+
+## Assignment 8: ACL Paper Summary
+
+[In this document](Assignment8.pdf), I summarize the paper *Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation* and give my thoughts on it.
