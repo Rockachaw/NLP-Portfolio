@@ -1,0 +1,27 @@
+{
+	"users": [
+		{
+			"name": "Jim",
+			"companies": [
+				"Tesla",
+				"FritoLay",
+				"CocaCola",
+				"Microsoft",
+				"Netflix",
+				"Canada",
+				"beer"
+			]
+		},
+		{
+			"name": "Steven",
+			"companies": [
+				"Microsoft",
+				"Apple",
+				"Reddit",
+				"Tesla",
+				"Disney",
+				"Taco Bell"
+			]
+		}
+	]
+}
