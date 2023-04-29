@@ -1,6 +1,8 @@
 # NLP-Portfolio
 Portfolio of my classwork for my Natural Language Processing course at UTD
 
+Click [here](SkillsLearned.md) to read about the skills I learned in this class
+
 ## Overview of NLP
 
 In [this document](Overview_of_NLP.TXT), I go over the basics of NLP and reflect on my personal interest in it
@@ -61,3 +63,7 @@ I used these algorithms on [this dataset of superheroes](data/superheroes_nlp_da
 ## Assignment 9: Chatbot
 
 In this project, I created ADeN, the Advertisement Delivery Now chatbot. The code can be found [here](Assignment9/app.py) and the report can be found [here](Assignment9/ChatbotReport.pdf).
+
+## Summary
+
+This class has proven to be better at teaching practical programming knowledge than most of my other courses. I now have experience with about a dozen new libraries that are currently being used to shape the future. As of writing, AI is starting to gain mass adoption with the release of ChatGPT last year. I believe that this moment can be compared with the launch of music on demand. Entire industries will be changed by this technology. I am grateful that I have some of the skills to put me at the front of this wave. I will continue to work on personal projects in the field of NLP. I still have much to learn, but I hope to some day be able to use these skills in the industry and make a large impact on the world.
